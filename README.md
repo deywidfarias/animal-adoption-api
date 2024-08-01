@@ -11,7 +11,7 @@ Adicionar na variável de ambiente "JAVA_HOME" o caminho para a pasta onde o JDK
 ## Executando o projeto
 
 ### Baixe um zip ou clone o repositório
-git clone <[animal-adoption-api](https://github.com/deywidfarias/animal-adoption-api.git)>
+git clone [https://github.com/deywidfarias/animal-adoption-api.git](https://github.com/deywidfarias/animal-adoption-api.git)
 
 ### Acesse a pasta do projeto no terminal/cmd
 cd animal-adoption-page
